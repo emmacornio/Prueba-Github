@@ -8,4 +8,4 @@ Está es una prueba 🦄
 
 ## Insertar una imagen
 
-![Gato-pulpo](./Images/Gato-pulpo.png)
+![Gato-pulpo](./Images/Gato-puplo.png)
